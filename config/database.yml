@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: sample_app
+  pool: 5
+  username: postgres
+  password: kovpack86
+
+test:
+  adapter: postgresql
+  encoding: utf8
+  database: sample_app
+  pool: 5
+  username: postgres
+  password: kovpack86
+
